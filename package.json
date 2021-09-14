@@ -1,0 +1,19 @@
+{
+  "name": "tp-api",
+  "version": "1.0.0",
+  "description": "Site pour repérer les zones touristique API: https://opendata.paris.fr/explore/dataset/zones-touristiques-internationales/information/?disjunctive.name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngakui/site-tourisme.git"
+  },
+  "author": "groupe6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngakui/site-tourisme/issues"
+  },
+  "homepage": "https://github.com/ngakui/site-tourisme#readme"
+}
